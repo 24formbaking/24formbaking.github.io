@@ -1,8 +1,8 @@
 /* Base attributes for nubblish formatting. */
 body, form, ul {
   font-size: 21px;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #F9E79F;
+  color: #000000;
   margin: 0;
   padding: 0;
 }
